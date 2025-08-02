@@ -5,9 +5,9 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from config import settings
 from pinecone_text.sparse import BM25Encoder
 
-pinecone.init(api_key=settings.PINECONE_API_KEY)
-if not pinecone.has_index(settings.PINECONE_INDEX_NAME):
-    pinecone.create_index(
+Pinecone.init(api_key=settings.PINECONE_API_KEY)
+if not Pinecone.has_index(settings.PINECONE_INDEX_NAME):
+    Pinecone.create_index(
         settings.PINECONE_INDEX_NAME,
         dimension=384, 
         metric="cosine",
@@ -16,7 +16,7 @@ if not pinecone.has_index(settings.PINECONE_INDEX_NAME):
             cloud="aws", region="us-east-1"
         )
     )
-index = pinecone.Index(settings.PINECONE_INDEX_NAME)
+index = Pinecone.Index(settings.PINECONE_INDEX_NAME)
 
 embeddings = HuggingFaceEmbeddings(api_key=settings.HF_TOKEN,model_name="all-MiniLM-L6-v2")
 
