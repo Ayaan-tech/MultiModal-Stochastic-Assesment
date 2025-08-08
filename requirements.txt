@@ -16,6 +16,7 @@ langchain-openai
 chromadb
 faiss-cpu
 pytesseract
+pdf2image
 langserve
 awscli
 boto3
