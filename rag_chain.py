@@ -1,5 +1,5 @@
-from modules.retriever import get_context_retriever
-from modules.LLM import get_llm_chain
+from retriever import get_context_retriever
+from LLM import get_llm_chain
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_core.runnables import RunnableConfig
 import os

@@ -8,7 +8,7 @@ from email import policy
 from email.parser import BytesParser
 from pdf2image import convert_from_path
 
-from utils.helpers import clean_text
+from helpers import clean_text
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 

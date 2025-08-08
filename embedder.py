@@ -6,8 +6,8 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
 
-from config.settings import EMBEDDING_MODEL_NAME, CHUNK_SIZE, CHUNK_OVERLAP
-from utils.helpers import get_file_hash, clean_text
+from settings import CHUNK_SIZE , CHUNK_OVERLAP , EMBEDDING_MODEL_NAME
+from helpers import get_file_hash
 
 
 def split_text_with_metadata(text, file_name):

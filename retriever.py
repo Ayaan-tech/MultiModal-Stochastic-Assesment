@@ -6,14 +6,14 @@ from langchain_community.chat_message_histories import FileChatMessageHistory
 from langchain_groq import ChatGroq
 from langchain.memory import ConversationBufferMemory
 
-from config.settings import (
+from settings import (
     EMBEDDING_MODEL_NAME,
     VECTOR_DB_PATH,
     TEMPERATURE,
     HISTORY_FILE,
 )
-from modules.prompt import document_qa_prompt
-from utils.helpers import get_file_hash
+from prompt import document_qa_prompt
+from helpers import get_file_hash
 
 
 def load_vector_db(file_path):

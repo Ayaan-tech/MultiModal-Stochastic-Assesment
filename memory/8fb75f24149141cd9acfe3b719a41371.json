@@ -1,0 +1,82 @@
+[
+  {
+    "type": "human",
+    "content": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?"
+  },
+  {
+    "type": "ai",
+    "content": "The Grace Period for payment of the premium shall be thirty days."
+  },
+  {
+    "type": "human",
+    "content": "What is the waiting period for pre-existing diseases (PED) to be covered?"
+  },
+  {
+    "type": "ai",
+    "content": "The waiting period for pre-existing diseases (PED) to be covered is thirty-six (36) months of continuous coverage after the date of inception of the first policy with the company."
+  },
+  {
+    "type": "human",
+    "content": "Does this policy cover maternity expenses, and what are the conditions?"
+  },
+  {
+    "type": "ai",
+    "content": "Yes, this policy covers Maternity Expenses. The conditions are that the Waiting Period of twenty-four (24) months must be completed, and the delivery or termination of pregnancy must occur during the Policy Period. However, the Waiting Period may be waived only in the case of delivery, miscarriage, or abortion induced by accident."
+  },
+  {
+    "type": "human",
+    "content": "What is the waiting period for cataract surgery?"
+  },
+  {
+    "type": "ai",
+    "content": "The waiting period for cataract surgery is two (2) years."
+  },
+  {
+    "type": "human",
+    "content": "Are the medical expenses for an organ donor covered under this policy?"
+  },
+  {
+    "type": "ai",
+    "content": "The Company shall indemnify the Medical Expenses incurred in respect of an organ donor's Hospitalisation during the Policy Period for harvesting of the organ donated to an Insured Person, provided that certain conditions are met."
+  },
+  {
+    "type": "human",
+    "content": "What is the No Claim Discount (NCD) offered in this policy?"
+  },
+  {
+    "type": "ai",
+    "content": "The No Claim Discount (NCD) offered in this policy is a flat 5% of the base premium, provided claims are not reported in the expiring policy year."
+  },
+  {
+    "type": "human",
+    "content": "Is there a benefit for preventive health check-ups?"
+  },
+  {
+    "type": "ai",
+    "content": "Yes, there is a benefit for preventive health check-ups. The policy provides a Health Check Up benefit every 2 years, up to INR 5,000."
+  },
+  {
+    "type": "human",
+    "content": "How does the policy define a 'Hospital'?"
+  },
+  {
+    "type": "ai",
+    "content": "According to the policy, a \"Hospital\" means any institution established for in-patient care and day care treatment of disease/injuries and which has been registered as a hospital with the local authorities under the Clinical Establishments (Registration and Regulation) Act, 2010 or under the enactments specified under Schedule of Section 56(1) of the said Act, OR complies with all minimum criteria as under: i. has qualified nursing staff under its employment round the clock; ii. has at least ten inpatient beds, in those towns having a population of less than ten lacs and fifteen inpatient beds in all other places; iii. has qualified medical practitioner(s) in charge round the clock; iv. has a fully equipped operation theatre of its own where surgical procedures are carried out; v. maintains daily records of patients and shall make these accessible to the Company's authorized personnel."
+  },
+  {
+    "type": "human",
+    "content": "What is the extent of coverage for AYUSH treatments?"
+  },
+  {
+    "type": "ai",
+    "content": "The Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homeopathy systems of medicines during each Policy Period up to the limit of Sum Insured as specified in the Policy Schedule in any AYUSH Hospital."
+  },
+  {
+    "type": "human",
+    "content": "Are there any sub-limits on room rent and ICU charges for Plan A?"
+  },
+  {
+    "type": "ai",
+    "content": "According to the policy, Room charges and Intensive Care Unit (ICU) charges per day shall be payable up to the limit as shown in the Table of Benefits, for Plan A only. However, the limit shall not apply if the treatment is undergone for a listed procedure in a Preferred Provider Network (PPN) as a package."
+  }
+]
