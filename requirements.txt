@@ -10,10 +10,12 @@ arxiv
 pymupdf
 wikipedia
 pyowm
+langchain-Groq
 langchain-text-splitters
 langchain-openai
 chromadb
 faiss-cpu
+
 langserve
 awscli
 boto3
@@ -25,9 +27,9 @@ pinecone
 sqlmodel
 pydantic
 langchain-huggingface
-
+sentence-transformers
 pinecone-text
 pinecone-notebooks
-
+python-docx
 azure-ai-inference
 prisma
