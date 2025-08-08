@@ -15,7 +15,7 @@ langchain-text-splitters
 langchain-openai
 chromadb
 faiss-cpu
-
+pytesseract
 langserve
 awscli
 boto3
