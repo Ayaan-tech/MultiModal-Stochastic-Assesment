@@ -9,7 +9,7 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 HUGGINGFACE_API_KEY = os.getenv("HF_TOKEN")
 
 # Model configuration
-GROQ_MODEL = "llama3-70b-8192"
+GROQ_MODEL = "lama-3.1-8b-instant"
 EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 
 # FAISS vectorstore
