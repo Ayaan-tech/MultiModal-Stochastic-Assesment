@@ -6,6 +6,7 @@ node_modules
 /.venv/
 data/vectordb/
 __pycache__/
+./__pycache__
 memory/
 
 ./myenv
