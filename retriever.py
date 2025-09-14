@@ -32,7 +32,7 @@ def load_vector_db(file_path):
 def load_llm():
     return ChatGroq(
         temperature=TEMPERATURE,
-        model_name="llama3-70b-8192",
+        model_name="openai/gpt-oss-120b",
     )
 
 

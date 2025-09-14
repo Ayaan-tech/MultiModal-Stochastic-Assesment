@@ -34,3 +34,4 @@ pinecone-notebooks
 python-docx
 azure-ai-inference
 prisma
+gradio

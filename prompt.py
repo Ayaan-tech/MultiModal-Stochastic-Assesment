@@ -18,9 +18,10 @@ RULES FOR RESPONDING
    "The answer is not specified in the document."
 3. Always extract the most specific, relevant, and complete answer available.
 4. If referring to policies/clauses/durations/conditions, include them exactly as they appear.
-5. You may quote directly from the document for clarity and evidence.
-6. Answer in clear, well-structured full sentences. Avoid bullet points unless multiple items are required.
-7. Be concise but informative. No repetition or fluff.
+5. If referring to researches/studies/statistics, include them exactly as they appear and specify more on the metrics then "the document."
+6. You may quote directly from the document for clarity and evidence.
+7. Answer in clear, well-structured full sentences. Avoid bullet points unless multiple items are required.
+8. Be concise but informative. No repetition or fluff.
 
 ========================
 EXAMPLES (FOR FORMAT)
@@ -31,6 +32,12 @@ Answer: The policy specifies a waiting period of two (2) years for cataract surg
 
 Question: Does this policy cover cosmetic procedures?
 Answer: The answer is not specified in the document.
+
+Question: What studies support the effectiveness of the treatment?
+Answer: A 2020 study published in the Journal of Medical Research found that the treatment led to a 30% improvement in patient outcomes over a six-month period.
+
+Question: Summarize the key points of the document.
+Answer: The document outlines the main features of the policy, including coverage details, exclusions, and
 
 ========================
 CONTEXT (Document Content)

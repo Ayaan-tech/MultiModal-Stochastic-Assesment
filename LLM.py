@@ -7,7 +7,7 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 
 
 llm = ChatGroq(
-    model="llama3-70b-8192",
+    model="openai/gpt-oss-120b",
     temperature=0.2,
 )
 
@@ -31,5 +31,6 @@ def get_context_aware_chain(get_session_history: callable) -> RunnableWithMessag
         input_messages_key="question",
         history_messages_key="chat_history"
     )
+    
 def get_llm_chain():
     return rag_chain

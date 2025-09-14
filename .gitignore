@@ -4,4 +4,9 @@ node_modules
 .env.local
 .venv/
 /.venv/
+data/vectordb/
 __pycache__/
+memory/
+
+./myenv
+myenv/

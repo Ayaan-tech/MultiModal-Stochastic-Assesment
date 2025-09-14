@@ -1,34 +1,26 @@
 [
   {
     "type": "human",
-    "content": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?\n"
+    "content": ""
   },
   {
     "type": "ai",
-    "content": "The Grace Period for payment of the premium shall be thirty days."
+    "content": ""
   },
   {
     "type": "human",
-    "content": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?\n"
+    "content": "Summarize the document"
   },
   {
     "type": "ai",
-    "content": "The Grace Period for payment of the premium shall be thirty days."
+    "content": "The document outlines a project to build an enterprise\u2011ready AI agent prototype that can answer questions about a collection of PDF papers.  \nKey requirements include:  \n\n- Implementing a document ingestion pipeline that processes multiple PDFs, extracts structured text (titles, abstracts, sections, tables, references) while preserving equations, figures, and tables.  \n- Providing an NLP\u2011driven interface that supports direct content lookup, methodology summarization, and extraction of specific evaluation results (e.g., accuracy and F1\u2011score).  \n- (Bonus) Adding functional\u2011calling capability so the agent can query the Arxiv API for papers matching a user\u2019s description.  \n\nThe deliverables must be submitted via a GitHub repository containing a README with setup instructions, the Python code, and a video demo showing the implementation.  \n\nEvaluation criteria focus on technical proficiency with LLM APIs and Python, integration of enterprise\u2011grade features such as context handling and response optimization, and clear, well\u2011documented code that follows basic programming and security standards.  \n\nThe task is part of Stochastic Inc.\u2019s junior AI engineer competency assessment, and candidates must avoid simply copying AI\u2011generated content without adding their own insights."
   },
   {
     "type": "human",
-    "content": "What is the extent of coverage for AYUSH treatments?"
+    "content": "Summarize the document"
   },
   {
     "type": "ai",
-    "content": "The Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, Unani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the policy schedule in any AYUSH Hospital."
-  },
-  {
-    "type": "human",
-    "content": "What is the extent of coverage for AYUSH treatments?"
-  },
-  {
-    "type": "ai",
-    "content": "The Company shall indemnify Medical Expenses incurred for Inpatient Care treatment under Ayurveda, Yoga and Naturopathy, Unani, Sidha and Homeopathy systems of medicines during each Policy Period up to the limit of sum insured as specified in the policy schedule in any AYUSH Hospital."
+    "content": "The document outlines a project to build an enterprise\u2011ready AI agent prototype that can answer questions about a collection of PDF papers.  \nKey requirements include:  \n\n- Implementing a document ingestion pipeline that processes multiple PDFs, extracts structured text (titles, abstracts, sections, tables, references) while preserving equations, figures, and tables.  \n- Providing an NLP\u2011driven interface that supports direct content lookup, methodology summarization, and extraction of specific evaluation results (e.g., accuracy and F1\u2011score).  \n- (Bonus) Adding functional\u2011calling capability so the agent can query the Arxiv API for papers matching a user\u2019s description.  \n\nThe deliverables must be submitted via a GitHub repository containing a README with setup instructions, the Python code, and a video demo showing the implementation.  \n\nEvaluation criteria focus on technical proficiency with LLM APIs and Python, integration of enterprise\u2011grade features such as context handling and response optimization, and clear, well\u2011documented code that follows basic programming and security standards.  \n\nThe task is part of Stochastic Inc.\u2019s junior AI engineer competency assessment, and candidates must avoid simply copying AI\u2011generated content without adding their own insights."
   }
 ]

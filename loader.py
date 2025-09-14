@@ -76,9 +76,7 @@ def extract_text(file_path):
         print("Detected DOCX file.")
         return extract_text_from_docx(file_path)
 
-    elif ext == ".eml":
-        print("Detected EML email file.")
-        return extract_text_from_eml(file_path)
+
 
     else:
         raise ValueError(f"Unsupported file type: {ext}")
