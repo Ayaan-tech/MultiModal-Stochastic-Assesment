@@ -2,10 +2,10 @@ import os
 import gradio as gr
 from langchain_core.messages import AIMessage, HumanMessage
 
-from loader import load_document
-from embedder import embed_and_store
-from rag_chain import run_rag_chain
-from rag_chain import save_chat_history, load_chat_history
+from embeddings.loader import load_document
+from embeddings.embedder import embed_and_store
+from rag.rag_chain import run_rag_chain
+from rag.rag_chain import save_chat_history, load_chat_history
 
 
 CHAT_HISTORY_DIR = "history"
